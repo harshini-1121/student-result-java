@@ -1,4 +1,4 @@
-public class StudentResult {
+public class StudentResultTest {
 
     public static String getResult(int marks) {
 
